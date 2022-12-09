@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.1" class="java.beans.XMLDecoder">
+ <object class="com.company.ConvertToXml">
+  <void property="string_1">
+   <string>hello</string>
+  </void>
+  <void property="string_2">
+   <string>snowy</string>
+  </void>
+  <void property="string_3">
+   <string>white</string>
+  </void>
+  <void property="string_4">
+   <string>winter</string>
+  </void>
+  <void property="string_5">
+   <string>cold</string>
+  </void>
+ </object>
+</java>
